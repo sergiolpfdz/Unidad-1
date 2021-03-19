@@ -1,1 +1,2 @@
-# grafica
+# PRACTICASPYTHON
+Se encuentra ejercicios realizados que se solicitaron en el documento PDF que entrego el docente para practicar el lenguaje de programacion mediante el uso de un software como lo es Visual Studio Code, dentro de el se encuentra el programa Python que es con el cual estan echo los programas. Esta Plataforma es una de las mas practicas para poder subir codigos y  visualizarlos. Además, el lenguaje de programacion de Python en un software como lo es Visual  Studio Code es muy rapido ya que su velocidad de ejecucion es en segundos.
